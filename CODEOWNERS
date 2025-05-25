@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @LinHtetPaing
+/src/backend/database.py      @LinHtetPaing
+/src/backend/routers/auth.py  @LinHtetPaing
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @LinHtetPaing
